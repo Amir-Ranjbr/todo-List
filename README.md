@@ -24,7 +24,7 @@ Follow Us: [Github](https://github.com/Amir-Ranjbr), [Youtube](https://www.youtu
 
 [MIT](LICENSE)
 
-## Buy me a coffee ☕
+## Buy me a Coffee ☕
 
 <a href="https://www.buymeacoffee.com/amir.ranjbr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=amir.ranjbr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 

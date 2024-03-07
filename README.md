@@ -6,7 +6,7 @@
 
 ## Preview
 
-https://github.com/Amir-Ranjbr/todo-List/assets/144438283/4dfae7db-b67f-4969-a39c-5d634d954ee9
+<video controls src="video/ToDoList.mp4" title="ToDoList"></video>
 
 ## Installation
 
